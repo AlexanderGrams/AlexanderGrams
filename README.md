@@ -22,8 +22,13 @@
 <!-- <img src="https://img.shields.io/badge/MongoDB-136?style=for-the-badge&logo=MongoDB&logoColor=47A248"/> -->
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlexanderGrams" alt="Anurag's GitHub stats" align="left" width="50%">
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=AlexanderGrams&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="50%">
+<br>
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexanderGrams" alt="Anurag's GitHub stats" align="left" width="50%">
+    <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=AlexanderGrams&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="50%">
+</div>
+
 <br>
 
 ## My contact information
